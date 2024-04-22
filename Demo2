@@ -1,0 +1,3 @@
+public function DiffNum(num1 as double, num2 as double) as double
+  DiffNum = num1-num2
+end function
